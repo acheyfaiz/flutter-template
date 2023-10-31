@@ -1,6 +1,6 @@
 # mvvm_template
 
-Flutter MVVM Template, using provider
+Flutter MVVM Template, using provider state management. Credit to @FaizIkhwan for this template
 
 ## Getting Started
 
